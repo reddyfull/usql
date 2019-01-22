@@ -1,0 +1,16 @@
+{
+  "boxAppSettings": {
+    "clientID": "ljsnvptlafq52i68elox1lw0knxcazu9",
+    "clientSecret": "XXX3dyTYsDxaElREE1ffM1eWQrgVQoPb",
+    "appAuth": {
+      "publicKeyID": "",
+      "privateKey": "",
+      "passphrase": ""
+    }
+  },
+  "enterpriseID": "124281832",
+  "webhooks": {
+    "primaryKey": "vP8TYP9OL9ws93JFINVZgWT5S8GFdCdP",
+    "secondaryKey": "9ZfwcvnF4ezr7K00hp7lZqI0fZeaydcP"
+  }
+}
